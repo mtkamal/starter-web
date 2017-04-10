@@ -1,5 +1,0 @@
-total 0
-drwxr-xr-x 1 Mohammed 197610 0 Apr  9 21:50 ./
-drwxr-xr-x 1 Mohammed 197610 0 Apr  9 21:50 ../
--rw-r--r-- 1 Mohammed 197610 0 Apr  9 21:50 level2-file.txt
-drwxr-xr-x 1 Mohammed 197610 0 Apr  9 21:49 level3/
